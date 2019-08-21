@@ -1,1 +1,11 @@
 /* You can add global styles to this file, and also import other style files */
+
+.compDiv {
+    height:100px;
+    background: lightblue;
+    border-radius: 5px;
+    overflow: scroll;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
